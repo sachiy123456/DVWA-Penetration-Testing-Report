@@ -1,8 +1,3 @@
-# DVWA-Penetration-Testing-Report
-Vulnerability Assessment &amp; Penetration Testing Report on DVWA
-
-📌 Project Title
-
 Penetration Testing on Damn Vulnerable Web Application (DVWA)
 
 📖 Introduction
